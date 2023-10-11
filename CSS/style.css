@@ -1,0 +1,44 @@
+body{
+    background-color: #1e202b;
+}
+.navbar a{
+    color: #fff;
+}
+.content-section{
+    height: 100vh;
+    background-image: url("../img/banner.png");
+    background-repeat: no-repeat;
+}
+.searchBar{
+    background-color: #1e202b; 
+    color: #fff;
+    border: none;
+}
+
+.statuCard{
+    background-color: #323544;
+}
+.statuCard2{
+    background-color: #252735;
+}
+.contact li{
+    list-style-type: none;
+}
+.contentSection{
+    background-color: #323544;
+}
+.contactIcon{
+    background-color:#1e202b ;
+    height: 40px;
+    width: 40px;
+    margin: 0px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+.footer-icons
+{
+    width: 20px;
+    height: 20px;
+}
